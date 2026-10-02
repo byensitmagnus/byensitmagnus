@@ -18,6 +18,8 @@ Based in **Copenhagen, Denmark**. My background combines hands-on hardware work,
 
 ## Selected projects
 
+**[Browse all public projects and forks](https://github.com/byensitmagnus/byensitmagnus/blob/main/PROJECTS.md)** · **[Try the fictional Order Flow demo](https://byensitmagnus.github.io/order-flow-skill/demo/)**
+
 | AI & business workflows | Ecommerce & everyday tools |
 | :--- | :--- |
 | **[Order Flow](https://github.com/byensitmagnus/order-flow-skill)**<br>Agent skill for order intake, inventory reconciliation, supplier comparison and verified procurement drafts. | **[Icecat Category Mapper](https://github.com/byensitmagnus/icecat-category-mapper)**<br>Configurable WooCommerce category mapping for product imports. |
@@ -28,10 +30,10 @@ Each repository documents its own setup, status and limitations. Agent skills us
 
 ## Experience at a glance
 
-**Byens IT · Entrepreneurship & IT services**
+**Byens IT · Co-owner · August 2022 – present**
 Custom gaming PCs, computer repair and IT support for individuals and smaller businesses. Turning recurring operational tasks into repeatable workflows.
 
-**Marsh McLennan · Previous corporate IT support experience**
+**Marsh McLennan · Analyst, onsite support · May 2023 – October 2025**
 Onsite support for colleagues at Marsh and Mercer in Denmark, troubleshooting and day-to-day office IT. This experience shaped how I approach ownership, communication and service.
 
 **Hands-on technical focus**

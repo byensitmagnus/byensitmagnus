@@ -15,9 +15,9 @@ My background includes corporate onsite support at Marsh McLennan, Windows and L
 
 ## Professional experience
 
-### Byens IT — Entrepreneurship & IT services
+### Byens IT — Co-owner, entrepreneurship & IT services
 
-**Current work**
+**August 2022 – present · Self-employed · Copenhagen area**
 
 - Run the business with my business partner, combining gaming PC assembly with IT support for individuals and small businesses.
 - Build and optimise computers, troubleshoot hardware and help customers with their IT needs.
@@ -25,13 +25,19 @@ My background includes corporate onsite support at Marsh McLennan, Windows and L
 
 Website: [byens-it.dk](https://byens-it.dk)
 
-### Marsh McLennan — Corporate IT support
+### Marsh McLennan — Analyst, onsite support
 
-**Previous experience**
+**May 2023 – October 2025 · Full-time · Copenhagen**
 
 - Provided onsite IT support for colleagues at Marsh and Mercer in Denmark.
 - Worked with troubleshooting, onboarding and daily office IT operations.
 - Developed a service-minded approach to user communication and taking ownership of support issues.
+
+### Hardware ekstra — Owner
+
+**January 2021 – present · Self-employed · Frederiksværk**
+
+Cryptocurrency mining, solar energy and server operations, as listed on LinkedIn.
 
 ## Technical focus
 
@@ -56,12 +62,18 @@ Website: [byens-it.dk](https://byens-it.dk)
 
 See each repository for its current implementation, license and limitations.
 
-## Beyond IT
+## Coaching experience
 
-Football coaching experience with FCK and UEFA C2 coach education, as described on my LinkedIn profile. Coaching has also been part of how I approach teamwork and communication.
+- **Gladsaxe Hero Boldklub — Head coach · January 2024 – February 2025.** Boys' U15 and U16 teams.
+- **PARKEN Sport & Entertainment A/S — Football coach · June 2022 – April 2024.** Coaching with an FC Copenhagen partner club.
+
+## Education
+
+- **DBU — C3 · June 2021 – July 2025**, as listed in the LinkedIn education section.
+- **Frederiksværk Gymnasium — Upper secondary education, Natural Sciences · August 2016 – June 2019.**
 
 ## Contact & career details
 
 Email: **[magnus@byens-it.dk](mailto:magnus@byens-it.dk)**. For professional conversations, you can also connect on [LinkedIn](https://www.linkedin.com/in/magnus-steinmeier-olsen-204b42237/). For Byens IT services, visit [byens-it.dk](https://byens-it.dk).
 
-This is a concise public career overview. Employment dates and a complete education history are omitted rather than inferred; LinkedIn is the source for further career details.
+Career dates and education above were checked against my LinkedIn profile on 2 October 2026. This is a selected career overview; see LinkedIn for the full history.
