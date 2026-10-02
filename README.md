@@ -43,4 +43,4 @@ Windows and Linux troubleshooting, PC assembly and optimisation, hardware diagno
 
 Interested in practical AI tools, ecommerce workflows or IT for small businesses? Connect with me on **[LinkedIn](https://www.linkedin.com/in/magnus-steinmeier-olsen-204b42237/)**. I also share updates on **[X](https://x.com/MagnusOlseq8r6)**.
 
-For gaming PCs and IT services, visit **[byens-it.dk](https://byens-it.dk)**.
+Contact me at **[magnus@byens-it.dk](mailto:magnus@byens-it.dk)**. For gaming PCs and IT services, visit **[byens-it.dk](https://byens-it.dk)**.

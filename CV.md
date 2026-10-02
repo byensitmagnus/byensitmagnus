@@ -62,6 +62,6 @@ Football coaching experience with FCK and UEFA C2 coach education, as described 
 
 ## Contact & career details
 
-For professional conversations, connect on [LinkedIn](https://www.linkedin.com/in/magnus-steinmeier-olsen-204b42237/). For Byens IT services, use the contact options on [byens-it.dk](https://byens-it.dk).
+Email: **[magnus@byens-it.dk](mailto:magnus@byens-it.dk)**. For professional conversations, you can also connect on [LinkedIn](https://www.linkedin.com/in/magnus-steinmeier-olsen-204b42237/). For Byens IT services, visit [byens-it.dk](https://byens-it.dk).
 
 This is a concise public career overview. Employment dates and a complete education history are omitted rather than inferred; LinkedIn is the source for further career details.
